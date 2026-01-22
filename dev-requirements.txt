@@ -98,6 +98,7 @@ packaging==24.1
     #   matplotlib
     #   pytest
     #   sphinx
+    #   wheel
 pandas==2.2.2
     # via
     #   -c requirements.txt
@@ -200,7 +201,7 @@ urllib3==2.2.2
     #   requests
 virtualenv==20.26.3
     # via pre-commit
-wheel==0.43.0
+wheel==0.46.2
     # via pip-tools
 
 # The following packages are considered to be unsafe in a requirements file:
